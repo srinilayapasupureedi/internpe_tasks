@@ -1,4 +1,4 @@
-JAVA PROGRAMMMING INTERNSHIP(Internpe)
+JAVA PROGRAMMING INTERNSHIP(Internpe)
 
 The task is to write a Java program in which a user will  guess a randomly generated number. Below are the rules of the game:
 
